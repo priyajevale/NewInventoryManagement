@@ -1,0 +1,16 @@
+.add-medicine-container {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+  }
+  
+  .add-medicine-container form {
+    display: flex;
+    flex-direction: row;
+    gap: 10px;
+  }
+  
+  .add-medicine-container label {
+    display: flex;
+    flex-direction: column;
+  }
